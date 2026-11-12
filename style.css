@@ -48,10 +48,10 @@ main {
 }
 
 h2 {
-    color: #004a8d;
+    color: #05742c;
     margin-bottom: 12px;
     font-size: 1.3rem;
-    border-bottom: 2px solid #f7941d;
+    border-bottom: 2px solid #05742c;
     padding-bottom: 6px;
     display: inline-block;
 }
@@ -115,7 +115,7 @@ button:hover {
 }
 
 footer {
-    background-color: #1e293b;
+    background-color: #05742c;
     color: #cbd5e1;
     text-align: center;
     padding: 20px;
