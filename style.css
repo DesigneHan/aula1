@@ -99,7 +99,7 @@ input[type="radio"] {
 }
 
 button {
-    background-color: #f7941d;
+    background-color: #05742c;
     color: #ffffff;
     border: none;
     padding: 10px 20px;
@@ -111,7 +111,7 @@ button {
 }
 
 button:hover {
-    background-color: #e08212;
+    background-color: #05742c;
 }
 
 footer {
